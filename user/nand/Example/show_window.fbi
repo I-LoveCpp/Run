@@ -1,0 +1,26 @@
+paste 6 22 a.txt
+show
+sleep 30
+
+paste 6 22 b.txt
+show
+sleep 30
+
+paste 6 22 c.txt
+show
+sleep 30
+
+paste 6 22 d.txt
+show
+sleep 30
+
+paste 6 22 e.txt
+show
+sleep 30
+
+paste 6 22 f.txt
+show
+sleep 30
+
+paste 6 22 g.txt
+show

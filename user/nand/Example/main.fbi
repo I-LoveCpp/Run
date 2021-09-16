@@ -1,0 +1,9 @@
+text 14 14 96 18 15 50 NULL Press\\the\\space\\key\\to\\start\\this\\programme
+wait 32
+text 14 14 96 18 15 50 NULL \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+sleep 1000
+jump show_window.fbi
+wait 32
+
+jump close_window.fbi
+quit
